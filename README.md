@@ -3,7 +3,7 @@ I'm a **Software Engineer** specializing in **Automation & Data**. I'm passionat
 
 - Currently optimizing data pipelines and automating the boring stuff.
 -  My daily drivers include **Python**, **Excel**, and **SQL**.
-- 📈 Always looking for ways to scale processes and improve data integrity.
+-  Always looking for ways to scale processes and improve data integrity.
 
 ---
 
