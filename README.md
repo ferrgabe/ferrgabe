@@ -1,5 +1,5 @@
 # About me
-I'm a **Software Engineer** specializing in **Automation & Data**. I'm passionate about building systems that turn manual chaos into streamlined, data-driven workflows.
+I'm a **Software Engineer** specializing in **Quality, Automation & Data**. I'm passionate about building systems that turn manual chaos into streamlined, data-driven workflows.
 
 - Currently optimizing data pipelines and automating the boring stuff.
 -  My daily drivers include **Python**, **Excel**, and **SQL**.
